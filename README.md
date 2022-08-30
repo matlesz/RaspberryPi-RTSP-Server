@@ -3,7 +3,8 @@
 
 There repository guide you through setting up lightweight Real Time Streming Server on your RaspberryPi.
 
-
+Showcase video:
+[https://youtu.be/OSKRHQbNqq0](https://www.youtube.com/watch?v=OSKRHQbNqq0)
 
 
 ## Installation
